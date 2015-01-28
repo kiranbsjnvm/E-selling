@@ -1,0 +1,35 @@
+#box {border:1px solid white;
+           border-radius:5px;
+		   width:900px;
+		   height:450px;
+		   margin:100px 230px;
+		   padding:50px;
+		   background-color:#baf8c7;
+		   }
+		   
+		   
+#category1_id, #category2_id , #category3_id ,#category4_id, #category5_id , #category6_id{font-size:18px;}
+
+
+
+.category2 {margin:-92px 279px;}
+
+.category3 {position:absolute;
+                     top:344px;left:900px;}
+					 
+.category4 {margin:122px 0px;}	
+
+.category5 {position:absolute;
+                     top:470px;left:558px;}
+					 
+.category6 {position:absolute;
+                     top:480px;left:897px;}		
+
+#subscribe_but {font-size:18px;
+                            width:115px;
+                            height:40px;
+							background-color:red;
+							color:white;
+							border-radius:20px;
+							position:absolute;
+                            top:643px;left:611px;}					 

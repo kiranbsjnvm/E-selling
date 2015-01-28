@@ -1,0 +1,28 @@
+#item_tabel{
+	padding: 50px;
+}
+
+td {
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 50px;
+	background-color: #E4EFF6;
+	text-align: center;
+	//cellspacing:10px;
+	//border-spacing: 15px;
+}
+.table_offset{
+	margin-left: 17%;
+}
+
+#title{
+
+}
+
+#price{
+
+}
+
+#footer{
+	margin-bottom: 2%;
+}

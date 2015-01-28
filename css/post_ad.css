@@ -1,0 +1,29 @@
+body {background-color:#B8D3FF;}
+
+#box {background-color:#e9f7c5;
+         border:1px solid white;
+           width:800px;
+		   height:700px;
+		   border-radius:5px;
+		   margin:70px 300px;
+		   padding:10px;}
+
+#form1 {font-size:20px;}
+
+#list_id {font-size:20px;}
+
+#ad_data {margin-left:20%;}
+
+table {font-size:20px; } 
+
+td {padding:10px;}
+
+#description {margin-left:10px;}
+#textarea_id {margin-left:180px;}
+
+#msg1 {margin:100px 300px;}
+			  
+.post_but {width:80px;
+                  height:35px;
+                 margin-left:170px;
+				 background-color:#e0acef;}

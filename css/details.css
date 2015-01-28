@@ -1,0 +1,25 @@
+#img_id {margin:100px 225px;}
+
+#box {border:1px solid white;
+           margin:-500px 780px;
+		   width:400px; height:400px;
+		   padding:50px;}
+		   
+#title {font-size:25px;
+          text-align:center;}	
+		  #id {font-size:20px;}
+		  
+#price {font-size:20px; }	
+#disc {margin-left:110px;
+            font-size:16px;}	  
+
+.but { background-color:red;
+				color:white;
+				padding: 5px ;
+				font-size: 20px;
+				font-family: "Bitter",serif;
+				appearance: none;
+				border-radius: 3px;
+				border: solid 1px white;
+				}
+ .but:hover {background-color:gray;}	
